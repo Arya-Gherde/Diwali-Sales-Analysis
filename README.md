@@ -1,4 +1,4 @@
-🌟Diwali Sales Analysis - 
+### 🌟DIWALI SALES ANALYSIS - 
 
 This project focuses on exploratory data analysis (EDA) of a real-world retail dataset containing over 11,000+ customer records based on sales during India's festive season, Diwali. The goal is to uncover key customer behavior patterns, purchasing trends, and high-performing product categories using Python, Pandas, and Seaborn/Matplotlib visualizations.
 
